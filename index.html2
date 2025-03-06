@@ -1,14 +1,19 @@
 !<DOCTYPE html>
-<html> 
+<html lang="pt-br"> 
     <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
         <title>
-            Resenha Livros
+            Portifólio
         </title>
     </head>
     <body>
-        <h1>Meu estilo de leitura</h1>
-        <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem veniam magnam quos ea autem distinctio ratione ullam doloremque praesentium. Autem nulla molestiae dolor velit libero eos fugit veritatis quam explicabo!</P>
-        <img src="img livros.webp" alt="Livros">
+    <header></header>
+    <main>
+    </main>
+    <footer> </footer>
+    
     </body>
 </html>
     
