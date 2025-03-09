@@ -1,4 +1,8 @@
  body {
     background-color: black;
     color: white;
+
+ }
+ strong {
+    color: rgb(245, 101, 190);
  }
